@@ -1,0 +1,98 @@
+
+/* nav */
+
+nav{
+
+    height: 100px;
+   
+  }
+  a{
+    text-decoration: none;
+  }
+  nav a{
+    text-decoration: none;
+    color: black;
+  }
+  nav a:hover{
+    color:#3face4;
+  }
+  .icon{
+    color:#3face4;
+    background-color: #3face4;
+  }
+  
+
+  /* footer */
+  footer{
+    padding-top: 50px;
+  background-color: black;
+  color: white;
+  padding-bottom: 100px;
+  }
+  
+  
+  footer  li {
+   margin-left: -30px;
+    display: block;
+  margin-top: 10px;
+  }
+  footer a{
+    text-decoration: none;
+    color: rgb(167, 167, 167);
+  }
+  footer a:hover{
+  
+    color:#3face4;
+  }
+  .fp{
+    color: rgb(167, 167, 167) ;
+  }
+  .nw-btn{
+    background-color: #3face4;
+    color: white;
+  }
+  .inf{
+    color: #3face4;
+  }
+  /* home hedar */
+
+  .bey{
+    color: white;
+    font-size: 70px;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+  }
+  .hire{
+    padding: 10px 40px;
+    background-color: #3face4;
+    color: white ;
+   
+    margin-left: 100px;
+    border-radius: 10px;
+  }
+  .himg{
+    background-image: url(./assets/home-banner-bg.jpg);
+    height: 500px;
+    background-size: cover;
+  }
+
+
+
+
+
+  .lat  {
+    text-align: center;
+    color:  rgb(167, 167, 167);
+    margin-top: 50px;
+  }
+  .card-title a{
+    color: black;
+  }
+  .card-title a:hover {
+    color:#3face4;
+  } 
+  .single-news:hover{
+    border: none;
+    box-shadow: 0px 0px 15px #d8d8d8, 0px 0px 15px#cfcfcf, 0px 0px 15px#d4d4d4;
+  }
