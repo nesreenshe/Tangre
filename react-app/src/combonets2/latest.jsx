@@ -13,8 +13,8 @@ function Latest() {
           </p>
         </div>
       </div>
-      <div class="row mt-5 mb-5">
-        <div className="col-md-4 ">
+      <div class="row mt-5 ">
+        <div className="col-md-4 mb-5">
           <div class="single-news card">
             <img className="card-top-img" src={img1} alt="Card image cap" />
             <div className="card-body">
@@ -28,7 +28,7 @@ function Latest() {
             </div>
           </div>
         </div>
-        <div className="col-md-4 ">
+        <div className="col-md-4 mb-5">
           <div class="single-news card">
             <img className="card-top-img" src={img2} alt="Card image cap" />
             <div className="card-body">
@@ -43,7 +43,7 @@ function Latest() {
           </div>
         </div>
 
-        <div className="col-md-4 ">
+        <div className="col-md-4 mb-5">
           <div class="single-news card">
             <img className="card-top-img" src={img3} alt="Card image cap" />
             <div className="card-body">

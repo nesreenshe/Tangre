@@ -15,7 +15,7 @@ function Footer() {
       <footer className="footer-area section-gap">
       <div className="container">
         <div className="row">
-          <div className="col-lg-3  col-md-6">
+          <div className="  col-md-3">
             <div className="single-footer-widget">
               <h6>Top Products</h6>
               <ul className="footer-nav">
@@ -26,7 +26,7 @@ function Footer() {
               </ul>
             </div>
           </div>
-          <div className="col-lg-6 col-md-6">
+          <div className=" col-md-6">
             <div className="single-footer-widget newsletter">
               <h6>Newsletter</h6>
               <p className="fp">You can trust us. we only send promo offers, not a single spam.</p>
@@ -48,8 +48,8 @@ function Footer() {
               </div>
             </div>
           </div>
-          <div className="col-lg-3  col-md-12">
-          <h6 className="mb-20">Instragram Feed</h6>
+          <div className=" col-md-3">
+          <h6 className="mb-2">Instragram Feed</h6>
             <div className="row">
               <div className="col-3">
               <img src={img1} alt="" />
